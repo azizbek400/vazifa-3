@@ -1,0 +1,85 @@
+.section {
+    width: 100%;
+height: 220px;
+background: #F3603C;
+margin-top: 161px;
+.section_text {
+    width: 740px;
+height: 96px;
+color: #FFF;
+font-size: 40px;
+font-weight: 700;
+padding: 62px 165px;
+}
+.section_button {
+    width: 100px;
+height: 44px;
+background-color: blanchedalmond;
+margin-left: 532px;
+margin-top: 88px;
+color: #F3603C;
+font-size: 13px;
+font-weight: 700;
+cursor: pointer;
+}
+.section_yon {
+    display: flex;
+}
+.section_box {
+    width: 100%;
+height: 250px;
+background: #1D1E25;
+margin-top: 6%;
+}
+.section_svg {
+    margin-left: 171px;
+    margin-top: 62px;
+}
+.section_svgg {
+    margin-left: 171px;
+    margin-top: 83px;
+}
+.box {
+    width: 200px;
+    height: 44px;
+         border-radius: 22px;
+    background: #FFF;
+}
+.box1 {
+    width: 64px;
+height: 44px;
+border-radius: 22px;
+background: #F3603C;
+margin-left: -18%;
+}
+.yonga {
+    display: flex;
+    gap: 200px;
+    margin-left: 450px;
+    margin-top: -140px;
+}
+.plar, .plar1{
+    
+    color: #FFF;
+    font-family: Be Vietnam;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.234px;
+}
+.uppt {
+    color: #8D8D8D;
+font-size: 13px;
+font-weight: 400;
+text-align: center;
+margin-top: 11px;
+}
+.go {
+    color: #FCF6F5;
+font-size: 13px;
+font-weight: 700;
+text-align: center;
+margin-top: 13px;
+}
+}
